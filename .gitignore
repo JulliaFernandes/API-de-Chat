@@ -1,0 +1,51 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Variáveis de ambiente (opcional - remova se quiser versioná-lo)
+# .env
+
+# Logs
+*.log
+logs/
+
+# Cache local
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Diretórios do projeto
+.env.local
+.env.*.local
