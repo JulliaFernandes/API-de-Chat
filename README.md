@@ -113,6 +113,8 @@ Resposta esperada:
   "status": "online",
   "message": "API de Chat com IA funcionando!"
 ```
+** Acessando `http:localhost:8000/docs`: **
+Ao acessar o localhost é possivel enviar uma pergunta para o end point `/chat`. 
 
 ## Endpoints
 
